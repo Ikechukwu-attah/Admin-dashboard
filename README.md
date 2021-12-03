@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools used. 
+This project was built using react js CSS, materialUI and rechart. 
 
 ## Available Scripts
 
